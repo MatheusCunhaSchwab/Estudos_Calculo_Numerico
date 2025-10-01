@@ -1,0 +1,17 @@
+Resultados das interpolacoes
+
+Exemplo "b":
+p(x) = a2*x^2 +a1*x +a0 
+P(2.5) =
+
+
+Exemplo "c":
+p(x) = a2*x^2 +a1*x +a0 
+P(1) =
+
+
+Exemplo "d":
+p(x) = a4*x^4 +a3*x^3 +a2*x^2 +a1*x +a0 
+P(3) =
+
+
