@@ -1,0 +1,29 @@
+% Exemplo1
+Coeficientes do polinomio de Lagrange:
+c1: +3.00
+c2: -3.00
+c3: +1.00
+
+Polinomio de Lagrange:
+p2(x)= +3.00(x-2.00)(x-3.00) -3.00(x-1.00)(x-3.00) +1.00(x-1.00)(x-2.00)
+
+% Exemplo2 - Dados1
+Coeficientes do polinomio de Lagrange:
+c1: -2.00
+c2: 3.00
+c3: -2.00
+c4: 0.50
+
+Polinomio de Lagrange:
+p3(x)= -2.00(x-0.00)(x-1.00)(x-2.00) +3.00(x+1.00)(x-1.00)(x-2.00) -2.00(x+1.00)(x-0.00)(x-2.00) +0.50(x+1.00)(x-0.00)(x-1.00)
+
+% Exemplo2 - Dados2
+Coeficientes do polinomio de Lagrange:
+c1: 0.18
+c2: -0.30
+c3: 0.22
+c4: -0.06
+c5: 0.00
+
+Polinomio de Lagrange:
+p4(x)= +0.18(x-0.00)(x-1.00)(x-2.00)(x-10.00) -0.30(x+1.00)(x-1.00)(x-2.00)(x-10.00) +0.22(x+1.00)(x-0.00)(x-2.00)(x-10.00) -0.06(x+1.00)(x-0.00)(x-1.00)(x-10.00) +0.00(x+1.00)(x-0.00)(x-1.00)(x-2.00)
